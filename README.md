@@ -5,6 +5,11 @@ Toko Citra Usaha
 Developer : M. Anton Arizal, S.T
 Kontak : 085235964310
 
+
+Database : SQLite3
+Backend : PHP Codeigniter4
+Frontend : Nodejs, ELectron, ExpressJS
+
 versi 3.2.9
 print retur penjualan
 
